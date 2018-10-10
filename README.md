@@ -1,2 +1,3 @@
-# DLND-sagemaker-deployment
-Deep Learning Nanodegree - SageMaker Deployment and more
+# Deep Learning Nanodegree - SageMaker Deployment and more
+
+This repo is a copy of Udacity's [Deep Learning Nanodegree - SageMaker Deployment repo](https://github.com/udacity/sagemaker-deployment). Its original [README.md](README-original.md) is [here](README-original.md). As part of my exploration of this repo, I make this copy to document my experience and notebook execution in SageMaker. More information will be provided here.
