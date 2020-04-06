@@ -28,4 +28,4 @@ git clone https://github.com/darienmt/DLND-sagemaker-deployment.git
 exit
 ```
 
-Enjoy!
+Enjoy!repo
